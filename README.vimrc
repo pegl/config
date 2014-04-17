@@ -1,3 +1,5 @@
+From https://github.com/gmarik/Vundle.vim
+
 Introduction:
 
 Installation requires Git and triggers git clone for each configured repository to ~/.vim/bundle/ by default. Curl is required for search.
